@@ -7,8 +7,6 @@ This repository contains my Week 1 submission for the IDX Exchange Data Analyst 
 
 The goal of Week 1 is to combine all monthly CRMLS Listing and Sold datasets from **January 2024 through the latest completed month**, prepare unified datasets for analysis, and keep only **Residential** properties.
 
----
-
 
 ---
 
