@@ -9,12 +9,6 @@ The goal of Week 1 is to combine all monthly CRMLS Listing and Sold datasets fro
 
 ---
 
-## Files
-
-```
-week1_listings.py
-week1_sold.py
-README.md
 ```
 
 ---
