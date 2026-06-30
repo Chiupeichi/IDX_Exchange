@@ -1,5 +1,6 @@
-# IDX_Exchange
-# IDX Exchange – Week 1: Monthly Dataset Aggregation
+# IDX Exchange
+
+## Week 1 – Monthly Dataset Aggregation
 
 This repository contains my Week 1 submission for the IDX Exchange Data Analyst Internship.
 
